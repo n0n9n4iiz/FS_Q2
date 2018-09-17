@@ -1,0 +1,23 @@
+{
+  "name": "fs_q2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0n9n4iiz/FS_Q2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n0n9n4iiz/FS_Q2/issues"
+  },
+  "homepage": "https://github.com/n0n9n4iiz/FS_Q2#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
